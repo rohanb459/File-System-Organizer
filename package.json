@@ -1,0 +1,24 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohanb459/File-System-Organizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin":{
+    "peppy": "main.js"
+  },
+  "bugs": {
+    "url": "https://github.com/rohanb459/File-System-Organizer/issues"
+  },
+  "homepage": "https://github.com/rohanb459/File-System-Organizer#readme"
+  
+}
